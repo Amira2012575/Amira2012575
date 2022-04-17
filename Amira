@@ -6,3 +6,4 @@ import seaborn as sns
 train_df = pd.read_csv("/content/MNIST/mnist_train.csv")
 #test_df = pd.read_csv("/content/MNIST/mnist_test.csv")
 train_df.head()
+
